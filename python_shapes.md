@@ -26,6 +26,8 @@ for i in range(n):
   forward(100)
   right(360/n)
 ```
+Run the code by pressing the triangle button.
+
 We can have more fun by creating a variable called side and altering this in the loop. 
 Here is the code.
 ``` python
@@ -36,6 +38,7 @@ for i in range(104):
    right(72) #Exterior angle of a pentagon is 72 degree
    side = side - 2
 ```
+Run the code by pressing the triangle button.
 
 You can also change the speed and the colour to make this spiral. 
 ``` python
@@ -46,6 +49,7 @@ for i in range(200):
   forward(i * 2)  # double size
   right(121)  # 120 degrees is an equilateral triangle
 ```
+Run the code by pressing the triangle button.
 
 I hope you've enjoyed writing some python code. 
 You've done a great job and learned about loops and variables. 
