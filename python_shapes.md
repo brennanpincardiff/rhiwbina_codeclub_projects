@@ -14,8 +14,8 @@ from turtle import *
 Then type this code to make a square using a loop. 
 ``` python
 for i in range (1,5):
-        forward(100)
-        right(90)
+  forward(100)
+  right(90)
 ```
 Run the code by pressing the triangle button.
 
@@ -34,9 +34,9 @@ Here is the code.
 # hexagon fun
 side = 100
 for i in range(104):
-   forward(side)
-   right(72) #Exterior angle of a pentagon is 72 degree
-   side = side - 2
+  forward(side)
+  right(72) #Exterior angle of a pentagon is 72 degree
+  side = side - 2
 ```
 Run the code by pressing the triangle button.
 
