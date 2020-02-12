@@ -4,8 +4,6 @@
 Go to [https://trinket.io/]
 
 We're going to use a python library called turtle.
-Lots of documentation here: https://docs.python.org/3/library/turtle.html
-
 Start by typing in this code:
 ``` python
 from turtle import *
@@ -55,6 +53,5 @@ I hope you've enjoyed writing some python code.
 You've done a great job and learned about loops and variables. 
 Well done. 
 For more python tutorials, go to: https://projects.raspberrypi.org/en/projects/
-
-
+Turtle documentation here: https://docs.python.org/3/library/turtle.html
 
