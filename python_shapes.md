@@ -50,8 +50,12 @@ for i in range(200):
 Run the code by pressing the triangle button.
 
 I hope you've enjoyed writing some python code. 
+
 You've done a great job and learned about loops and variables. 
+
 Well done. 
+
 For more python tutorials, go to: https://projects.raspberrypi.org/en/projects/
+
 Turtle documentation here: https://docs.python.org/3/library/turtle.html
 
