@@ -11,7 +11,7 @@ from turtle import *
 
 Then type this code to make a square using a loop. 
 ``` python
-for i in range (4):
+for i in range(4):
   forward(100)
   right(90)
 ```
