@@ -23,6 +23,17 @@ shape("turtle")
 It should be grey. 
 Try making it red, green and blue
 
+### Random colour the turtle. 
+``` python
+from turtle import *
+from random import *
+color(randint(0, 250),
+ randint(0, 250),
+ randint(0, 250))
+shape("turtle")
+```
+
+
 ### Draw a spiral with various colours
 ``` python
 from turtle import *
