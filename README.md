@@ -1,2 +1,2 @@
 # rhiwbina_codeclub_projects
-Creating some physical coding projects for Rhiwbina Code Club
+Creating some coding projects for Rhiwbina Code Club
