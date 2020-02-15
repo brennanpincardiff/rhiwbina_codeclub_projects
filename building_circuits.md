@@ -53,4 +53,5 @@ These kind of sensors control our street lights.
 What other things would you like to try?
 
 Snap Circuits may be available to play with…
+
 Info about LEDs here: http://blog.sparkfuneducation.com/what-is-an-led
