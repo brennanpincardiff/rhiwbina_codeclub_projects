@@ -9,6 +9,7 @@
 - Wires for connecting
 
 ### Other possible components
+- Capacitors
 - Photo sensitive resistor
 - Slide switch
 - Motors
@@ -33,11 +34,9 @@ Check all your connections and remember how the channels of the breadboard conne
 
 ### Step 2: Add a switch
 
-Add a switch – two kinds to try: press switch or slide switch
+Add a press switch and control the power!
 
-What is the difference?
-
-Why might one be useful…
+There are some slide switches availalbe. Try one if you can. What is the difference? Why might one be useful…
 
 ### Step 3: Try different sized resistors
 
@@ -45,13 +44,12 @@ Higher resistor – lower amount of light…
 
 Because resistors restrict the amount of electricity. 
 
-### Step 4: Try Light sensitive resistor
-What happens when you put your finger over the socket. 
+### Step 4: Try other components.
+Try capacitors with your LED circuit. What happens when you switch it off? Capacitors store electricity and release it slowly. 
 
+Try a photo sensitive resistor. What happens when you put your finger over the socket. 
 These kind of sensors control our street lights. 
 
-What other things would you like to try?
-
-Snap Circuits may be available to play with…
+Can you get a motor working? Maybe try the Snap Circuits?
 
 Info about LEDs here: http://blog.sparkfuneducation.com/what-is-an-led
