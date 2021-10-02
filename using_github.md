@@ -9,7 +9,7 @@ We will use the browser today but you can set up your IDE with Github too.
 Please start off by creating an account for yourself on Github by going to [Join Github](https://github.com/join).
 Make sure you remember your login and password. 
 
-Then go to the Github repository for Rhiwbina Library Code Club.
+Then go to the [Github repository](https://github.com/Rhiwbina-Library-Code-Club/rhiwbinalibcodeclub.github.io) for Rhiwbina Library Code Club webpage.
 
 Using the big green button fork this repository. 
 
