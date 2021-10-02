@@ -27,3 +27,5 @@ Add a link to the front page so that users can find your page.
 Create a [Pull Request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to ask me (Paul) to pull the changes onto the Rhiwbina Library Code Club site. 
 
 You might benefit from reading this [Introduction to Github](https://lab.github.com/githubtraining/introduction-to-github)
+
+Also this [Khan Academy page](https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/hosting-your-website-on-github#:~:text=Code%20repositories%20can%20contain%20all,at%20yourusername.github.io%20.) might help.
