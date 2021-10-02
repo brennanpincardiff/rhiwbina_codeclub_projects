@@ -17,9 +17,9 @@ Make changes to the Markdown file or add code on a separate file. Some informati
 
 Commit the changes to this file. 
 
-Create a pull request to ask me (Paul) to pull the changes onto the Rhiwbina Library Code Club site. 
+Create a [Pull Request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to ask me (Paul) to pull the changes onto the Rhiwbina Library Code Club site. 
 
-Consider adding a page with some of your own code to showcase your work. 
+Consider adding a page with some of your own code to showcase your work. I think these can be in html or markdown.  
 
 Add a link to the front page so that users can find your page.
 
