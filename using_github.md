@@ -11,16 +11,19 @@ Make sure you remember your login and password.
 
 Then go to the [Github repository](https://github.com/Rhiwbina-Library-Code-Club/rhiwbinalibcodeclub.github.io) for Rhiwbina Library Code Club webpage.
 
-Using the big green button fork this repository. 
+Look at the repo and find the Fork button. Select this button and fork this repo into yourown area on Github. 
 
-Make changes to the Markdown file or add code on a separate file. Some information on [Markdown](https://guides.github.com/features/mastering-markdown/) 
+Make changes to the Markdown file or add code on a separate file. Some information on [Markdown](https://guides.github.com/features/mastering-markdown/).
+Preview the pages. 
 
-Commit the changes to this file. 
+When you are happy, commit the changes to this file. Commit requires you to add a comment about the changes you've made. 
 
-Create a [Pull Request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to ask me (Paul) to pull the changes onto the Rhiwbina Library Code Club site. 
+Repeat the editing and commit process until you have made some changes that you are happy with. 
 
-Consider adding a page with some of your own code to showcase your work. I think these can be in html or markdown.  
+Consider adding a page with some of your own code to showcase your work. I think these can be in html or markdown.
 
 Add a link to the front page so that users can find your page.
+
+Create a [Pull Request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to ask me (Paul) to pull the changes onto the Rhiwbina Library Code Club site. 
 
 You might benefit from reading this [Introduction to Github](https://lab.github.com/githubtraining/introduction-to-github)
