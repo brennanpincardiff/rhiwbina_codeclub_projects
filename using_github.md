@@ -4,15 +4,16 @@
 Github is a version control system. It allows you to collaborate making code. 
 In this project, please try to improve the Rhiwbina Libary Code Club website on Github. 
 
-We will use the b
+We will use the browser today but you can set up your IDE with Github too. 
 
 Please start off by creating an account for yourself on Github by going to [Join Github](https://github.com/join).
+Make sure you remember your login and password. 
 
 Then go to the Github repository for Rhiwbina Library Code Club.
 
 Using the big green button fork this repository. 
 
-Make changes to the Markdown file or add code on a separate file. 
+Make changes to the Markdown file or add code on a separate file. Some information on [Markdown](https://guides.github.com/features/mastering-markdown/) 
 
 Commit the changes to this file. 
 
@@ -20,4 +21,6 @@ Create a pull request to ask me (Paul) to pull the changes onto the Rhiwbina Lib
 
 Consider adding a page with some of your own code to showcase your work. 
 
-Add a link to the front page so that users can find your page. 
+Add a link to the front page so that users can find your page.
+
+You might benefit from reading this [Introduction to Github](https://lab.github.com/githubtraining/introduction-to-github)
