@@ -1,6 +1,6 @@
 ## Rhiwbina Library Code Club invites you to work towards a CREST Award.
 [CREST](https://www.crestawards.org/what-is-crest) is a scheme to inspire young people to think and behave like scientists and engineers. 
-In the first instance, we are encouraging learners to consider working towards a (CREST Super Star award)[https://www.crestawards.org/crest-superstar]. 
+In the first instance, we are encouraging learners to consider working towards a [CREST Super Star award](https://www.crestawards.org/crest-superstar). 
 This involves engaging in a series of <b>eight one hour tasks</b> when you attend Code Club. It is entirely voluntary.
 We hope it will be fun. 
 
