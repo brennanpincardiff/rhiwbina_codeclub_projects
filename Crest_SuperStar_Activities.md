@@ -21,6 +21,15 @@ Here are some suggested activities:
 Lots of other options are available. CREST have a library of resouces which cover a broad range of activities (https://primarylibrary.crestawards.org/#SuperStar). 
 Check out the resources and tell us if there is a particular task you would like to try.
 
+Here are some suggestions
+* Disappearing Dinosours
+* Drifting dandelions
+* Fingerprints (maybe us a microsope on the computer?)
+* Hoodie Learning
+* Tea (survey others and make a graph)...
+* Polymer problem
+* Super Spinners
+
 Follow the sheets and have fun customising your work in any way you want:-)
 
 If you want to get involved tell one of the Code Club leaders. 
