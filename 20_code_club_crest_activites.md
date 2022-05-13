@@ -2,8 +2,8 @@
 
 Key point here is to do the work yourself and to share your work with Paul or Gareth as this makes us happy and we can give you a sticker for your SuperStar passport. 
 
-1.	Complete a Code Club Scratch worksheet – and share your work
-2.	Make a Scratch game
+1.	Complete a [Code Club Scratch worksheet](https://projects.raspberrypi.org/en/codeclub/scratch-module-1) – and share your work
+2.	Make and customize a Scratch game like [Dodgeball](https://projects.raspberrypi.org/en/projects/dodgeball)
 3.	Improve or adapt a Scratch game
 4.	Make a multi-level Scratch game
 5.	Make a micro-bit animation (learn about microcontrollers)
