@@ -17,7 +17,7 @@ for i in range(4):
 ```
 Run the code by pressing the triangle button.
 
-Let's make a hexagon:
+Let's make a pentagon:
 ``` python
 n = 5
 for i in range(n):
@@ -29,7 +29,7 @@ Run the code by pressing the triangle button.
 We can have more fun by creating a variable called side and altering this in the loop. 
 Here is the code.
 ``` python
-# hexagon fun
+# pentagon fun
 side = 100
 for i in range(104):
   forward(side)
