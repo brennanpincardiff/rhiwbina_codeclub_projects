@@ -27,5 +27,30 @@ player.on_chat("2 houses", build_2_houses)
 
 ```
 
+
+### Step 2: build houses in a loop using y not x
+Here is the python code to put into the code window
+``` python
+def house(y=1):
+    blocks.fill(CONCRETE,
+        pos(1, -1, y),
+        pos(11, 11, y+10),
+        FillOperation.HOLLOW)
+    blocks.fill(GLASS, pos(1, 3, y+2), pos(1, 6, y+8), FillOperation.REPLACE)
+    blocks.fill(AIR, pos(1, 0, y+5), pos(1, 1, y+7), FillOperation.REPLACE)
+ 
+def loop_h():
+    y = 1
+    for i in range(5):
+        house(y=y)
+        y = y + i*10
+
+
+# player.on_chat("house", house)
+player.on_chat("h", loop_h)
+
+```
+
+
 These don't feel quite right in terms of orientation but it's a start...
 
