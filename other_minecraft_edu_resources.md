@@ -5,5 +5,6 @@
 - 2021 Hour of Code: TimeCraft advert: https://www.youtube.com/watch?v=OSykkOsvUcs
 - Peace builders advert: https://education.minecraft.net/en-us/discover/peace-builders
 - How to code a volcano - looks good - turn into a python lesson: https://www.youtube.com/watch?v=WyoMqP_hpFU
+- [Labyrinth lesson plan](https://education.minecraft.net/en-us/challenges/the-labyrinth); go to View Library > Monthly Build Challenges
 
 
