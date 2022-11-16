@@ -22,6 +22,8 @@ Try some of the starting tutorials (you can use blocks, Python or JavaScript):
 * Trying [coding a house with Python](https://github.com/brennanpincardiff/rhiwbina_codeclub_projects/blob/master/minecraft_edu_house.md) or
 [multiple houses](https://github.com/brennanpincardiff/rhiwbina_codeclub_projects/blob/master/minecraft_edu_make_a_village.md) and try to make a village. 
 
+* There are lots of other interesting resources. Here is a list. 
+
 Tell us what you've done and have fun... 
 
 
