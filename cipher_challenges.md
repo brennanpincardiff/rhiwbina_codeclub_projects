@@ -75,15 +75,18 @@ This site will encode and decode for you: https://www.dcode.fr/rail-fence-cipher
 
 More on transposition ciphers:
 - A three rail cipher
+  
 Try decoding this...
+
 RBL AAE TEB HWI AIR RHS HBS CDC UIN BYT EOL
 
 - The twisted path cipher
+  
 Look up Martin Garnder book and try decoding this:
+
 RI BR NH IA AR LW BI Y  
 
 Remember you can always try this site: https://www.dcode.fr
-
 
 For puzzles and games (good learning and a bit of fun):
 - https://cybergamesuk.com/ 
