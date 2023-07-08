@@ -15,6 +15,7 @@ D E F G H I J K L M N O P Q R S T U V W X Y Z A B C
 Try to decode these messages as practice:
 
 Uklzelqd Frgh Foxe lv juhdw
+
 L oryh vxpphu krolgdbv
 
 You can change the number of letters you shift (sometimes called the ROT number) but this remains an easy cipher to break. 
