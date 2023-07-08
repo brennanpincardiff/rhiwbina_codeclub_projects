@@ -1,5 +1,5 @@
 # Welcome to Code Club. 
-## Here are two challenges that you can try to learn about ciphers 
+## Here are some challenges to learn about ciphers 
 
 ### A substitution cipher: Caesar cipher
 
