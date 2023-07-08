@@ -66,7 +66,9 @@ This would give.
 IO EH WE NC DC UL VR IB IA OE LB
 
 Try to decode these messages as practice:
+
 RI BN CD CU IG ET HW IA OE LB SR A
+
 IO EU MR OI AS LV SM EH LD Y
 
 This site will encode and decode for you: https://www.dcode.fr/rail-fence-cipher
