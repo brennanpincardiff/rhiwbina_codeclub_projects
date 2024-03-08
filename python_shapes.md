@@ -21,10 +21,11 @@ Let's make a pentagon:
 ``` python
 n = 5
 for i in range(n):
-  forward(100)
+  forward(75)
   right(360/n)
 ```
 Run the code by pressing the triangle button.
+Change the value for n and what happens?
 
 We can have more fun by creating a variable called side and altering this in the loop. 
 Here is the code.
