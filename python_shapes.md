@@ -55,6 +55,11 @@ You've done a great job and learned about loops and variables.
 
 Well done. 
 
+If using PyCharm IDE, add this code to keep the window open. 
+``` python
+exitonclick()
+```
+
 For more python tutorials, go to: https://projects.raspberrypi.org/en/projects/
 
 Turtle documentation here: https://docs.python.org/3/library/turtle.html
