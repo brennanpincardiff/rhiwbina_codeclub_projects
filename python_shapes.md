@@ -49,6 +49,8 @@ for i in range(200):
 ```
 Run the code by pressing the triangle button.
 
+Try playing with the right turn. Try a values of 87 and 190. How does it affect the picture? 
+
 I hope you've enjoyed writing some python code. 
 
 You've done a great job and learned about loops and variables. 
