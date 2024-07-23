@@ -29,7 +29,7 @@ Then three different activities.
 
 
 #### Kit Requirements
-- Microbits: as many as possible plus some micro USB connectors
+- Microbits: as many as possible plus micro USB connectors
 - Back up print outs of some the exercises
 - Stickers and other Code Club branded material
 
