@@ -30,12 +30,10 @@ Then three different activities.
 
 #### Kit Requirements
 - Microbits: as many as possible plus micro USB connectors
-- Back up print outs of some the exercises
+- A few back up print outs of some the exercises
 - Stickers and other Code Club branded material
 
 #### Additional options:
 - [MiniBit Robot](https://4tronix.co.uk/blog/?p=2068) - drive a robot with a microbit
 - Play with ThePiHut Advent calendar: https://thepihut.com/pages/advent
-- maybe assemble a Raspberry Pi (if we have all the kit required).
-
-
+- [Assemble a Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started) (if we have all the kit required): Pi, keyboard, mouse, screen cable, power cable for Pi.
