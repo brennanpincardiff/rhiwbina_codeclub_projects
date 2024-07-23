@@ -34,7 +34,7 @@ Then three different activities.
 - Stickers and other Code Club branded material
 
 #### Additional options:
-- MiniBit Robot - drive a robot with a microbit
+- [MiniBit Robot](https://4tronix.co.uk/blog/?p=2068) - drive a robot with a microbit
 - Play with ThePiHut Advent calendar: https://thepihut.com/pages/advent
 - maybe assemble a Raspberry Pi (if we have all the kit required).
 
