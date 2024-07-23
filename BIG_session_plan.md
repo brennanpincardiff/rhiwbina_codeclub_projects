@@ -8,10 +8,13 @@
 - [Paul Brennan](https://github.com/brennanpincardiff)​, Professor in Medical Education, Cardiff University & Rhiwbina Library Code Club​​
 - [Gareth Gwyther](https://github.com/punkplod23)​, Senior Engineer, LexisNexis Risk Solutions & Rhiwbina Library Code Club​
 
-First part is a short presentation by Selmane and Paul, approx 15 minutes. 
-Opportunities for questions. 
-Then three different activities. 
-
+### Plan
+1. Introductions
+2. Short presentation by Selmane and Paul, approx 15 minutes. 
+3. Opportunities for questions. 
+4. Then three different activities (approx 15 min each)
+5. Informal questions during demos
+6. Close with final questions/comments 
 
 ### Activity 1 Showcase Scratch
 - Lost in Space: https://projects.raspberrypi.org/en/projects/lost-in-space 
