@@ -1,0 +1,40 @@
+# Collaboration between Cardiff University and Rhiwbina Library Code Club
+## Inspire colleagues to run a Code Club, appreciate resources and have a play with code 
+
+## Unlocking Digital Potential​​ - A Hands-on Coding Workshop
+
+### Presenters:
+- Selmane Tabet (selman.io)​, Outreach Officer at Cardiff University School of Computer Science​
+- Paul Brennan​, Professor in Medical Education, Cardiff University & Rhiwbina Library Code Club​​
+- Gareth Gwyther​, Senior Engineer, LexisNexis Risk Solutions & Rhiwbina Library Code Club​
+
+First part is a short presentation by Selmane and Paul, approx 15 minutes. 
+Opportunities for questions. 
+Then three different activities. 
+
+
+### Activity 1 Showcase Scratch
+- Lost in Space: https://projects.raspberrypi.org/en/projects/lost-in-space 
+- Flying hippos. It'll be a simpler version of this:https://projects.raspberrypi.org/en/projects/clone-wars/4
+
+### Activity 2: Simple Python Programme 
+- Simple shapes with turtle: https://github.com/brennanpincardiff/rhiwbina_codeclub_projects/blob/master/python_shapes.md
+- Modern Art: https://projects.raspberrypi.org/en/projects/modern-art
+- Turtle racing game: https://projects.raspberrypi.org/en/projects/turtle-race
+
+### Activity 3: Explore Microbits
+- make music with a V2 microbit (limited number available): 
+- make a microbit game: https://www.scouts.org.uk/activities/swing-it-shake-it-move-it-make-it/
+- check out this video to programme buttons: https://www.youtube.com/watch?v=kZOTlXGIzPI 
+
+#### Kit Requirements
+- Microbits: perhaps 6, three for programming and another three set up for the scouts to play with. 
+- Back up print outs of some the exercises
+- Stickers and other Code Club branded material
+
+Additional options:
+- MiniBit Robot - drive a robot with a microbit
+- Play with ThePiHut Advent calendar: https://thepihut.com/pages/advent
+- maybe assemble a Raspberry Pi (if we have all the kit required).
+
+
