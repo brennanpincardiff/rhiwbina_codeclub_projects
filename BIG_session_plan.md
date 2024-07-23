@@ -23,16 +23,17 @@ Then three different activities.
 - Turtle racing game: https://projects.raspberrypi.org/en/projects/turtle-race
 
 ### Activity 3: Explore Microbits
-- make music with a V2 microbit (limited number available): 
+- make music with a V2 microbit (limited number available): https://projects.raspberrypi.org/en/projects/music-player
+- check out this video to programme buttons: https://www.youtube.com/watch?v=kZOTlXGIzPI (N.B. this can be done using Block Coding, Python or JaveScript
 - make a microbit game: https://www.scouts.org.uk/activities/swing-it-shake-it-move-it-make-it/
-- check out this video to programme buttons: https://www.youtube.com/watch?v=kZOTlXGIzPI 
+
 
 #### Kit Requirements
-- Microbits: perhaps 6, three for programming and another three set up for the scouts to play with. 
+- Microbits: as many as possible plus some micro USB connectors
 - Back up print outs of some the exercises
 - Stickers and other Code Club branded material
 
-Additional options:
+#### Additional options:
 - MiniBit Robot - drive a robot with a microbit
 - Play with ThePiHut Advent calendar: https://thepihut.com/pages/advent
 - maybe assemble a Raspberry Pi (if we have all the kit required).
