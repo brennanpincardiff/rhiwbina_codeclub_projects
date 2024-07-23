@@ -4,8 +4,8 @@
 ## Unlocking Digital Potential​​ - A Hands-on Coding Workshop
 
 ### Presenters:
-- Selmane Tabet (selman.io)​, Outreach Officer at Cardiff University School of Computer Science​
-- Paul Brennan​, Professor in Medical Education, Cardiff University & Rhiwbina Library Code Club​​
+- [Selmane Tabet](https://github.com/selmantabet) (selman.io)​, Outreach Officer at Cardiff University School of Computer Science​
+- [Paul Brennan](https://github.com/brennanpincardiff)​, Professor in Medical Education, Cardiff University & Rhiwbina Library Code Club​​
 - Gareth Gwyther​, Senior Engineer, LexisNexis Risk Solutions & Rhiwbina Library Code Club​
 
 First part is a short presentation by Selmane and Paul, approx 15 minutes. 
