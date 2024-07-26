@@ -10,7 +10,7 @@
 
 ### Plan
 1. Introductions
-2. [Short presentation](https://github.com/brennanpincardiff/rhiwbina_codeclub_projects/blob/master/Unlocking%20Digital%20Potential%20Presentation.pptx) by Selmane and Paul, approx 15 minutes. 
+2. [Short presentation](https://github.com/brennanpincardiff/rhiwbina_codeclub_projects/blob/master/Unlocking%20Digital%20Potential%20Presentation.pdf)) by Selmane and Paul, approx 15 minutes. 
 3. Opportunities for questions. 
 4. Then three different activities (approx 15 min each)
 5. Informal questions during demos
