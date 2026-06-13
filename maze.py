@@ -101,8 +101,8 @@ while True:
   # player loses if the enter a room with a monster
   if 'item' in rooms[currentRoom] and 'monster' in rooms[currentRoom]['item']:
       print('A monster has got you... GAME OVER!')
-  break
+      break
 # player wins if they get to the garden with a key and a potion
   if currentRoom == 'Garden' and 'key' in inventory and 'potion' in inventory:
-        print('You escaped the house... But can you survive Goku nah just kidding you win!')
-  break
+      print('You escaped the house... But can you survive Goku nah just kidding you win!')
+      break
